@@ -1,0 +1,13 @@
+{
+    "name": "ma-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cookie-session": "^1.3.2",
+        "ejs": "^2.1.4",
+        "express": "^4.16.4",
+        "socket.io": "^2.2.0"
+    },
+    "author": "Mateo21 <mateo21@email.com>",
+    "description": "Un gestionnaire de todolist ultra basique"
+}
